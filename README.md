@@ -3,7 +3,7 @@
 ## Repositório destinados a aprendizados relacionados a Docker com Python
 
 ### Aulas:
-- [ ] 1: Conceitos Iniciais
+- [x] 1: Conceitos Iniciais
 - [ ] 2: Setando a Aplicação
 - [ ] 3: Imagem e Container da Aplicação
 - [ ] 4: Portas, Banco de Dados e Volumes

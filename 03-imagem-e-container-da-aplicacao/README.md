@@ -1,4 +1,14 @@
-# 02: Setando a Aplicação
+# 03: Imagem e Container da Aplicação
+
+- Docker permite "pegar" certas aplicações e coloca-las dentro de um ambiente.
+- Esses ambientes(container) podem ficar fora do setup(configuração) da máquina.
+- Container são orientados a tarefas, ele só existe para rodar a aplicação.
+- Docker fornece a infraestrutura necessária para o projeto.
+- Imagens: Arquivos com a configuração de cada container, cada elemento.
+
+## Imagem
+
+![image](img/img-1.PNG)
 
 ## comandos
 
